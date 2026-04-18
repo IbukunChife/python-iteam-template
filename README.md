@@ -1,6 +1,16 @@
 # python-iteam-SEUNOME
 
-> Substitua `SEUNOME` pelo seu nome completo ao criar seu repositório.
+## Como usar este template
+
+> **Passo 1:** Clique no botão verde **"Use this template"** → **"Create a new repository"**
+>
+> **Passo 2:** No campo "Repository name", escreva: `python-iteam-SEUNOME` (substitua `SEUNOME` pelo seu nome completo, sem acentos e sem espaços — ex: `python-iteam-JoaoSilva`)
+>
+> **Passo 3:** Marque **"Public"** e clique em **"Create repository"**
+>
+> **Passo 4:** Clone o repositório criado no seu computador e trabalhe a partir dele.
+
+---
 
 Repositório de atividades do **Módulo 07 — Programação em Python**  
 Instituto Tecnológico Educacional da Amazônia — ITEAM  
