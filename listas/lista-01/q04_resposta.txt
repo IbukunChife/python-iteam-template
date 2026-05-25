@@ -17,5 +17,5 @@ Qual é o valor final de total? O que o código calcula?
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+( valor total = 9 / ele calcula os números impares que estão no intervalo de 1 a 5 )
 

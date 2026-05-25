@@ -15,3 +15,11 @@
 #   print(maior_nota([7.5, 9.0, 6.0, 8.5]))
 
 # ── Sua solução abaixo ──────────────────────────────────────────────────────
+ 
+def maior_nota(notas):
+    maior = 0
+    for nota in notas:
+        if nota > maior:
+            maior = nota
+    return maior
+print(maior_nota([7.5,10,9.6,8.9,6.0,5.5]))
