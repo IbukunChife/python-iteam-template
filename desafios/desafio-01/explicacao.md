@@ -1,7 +1,7 @@
 # Explicação — Desafio 01
 
-**Aluno:** _(seu nome)_  
-**Data:** _(data)_
+**Aluno:** _(Artur Gabriel Santos de Souza)_  
+**Data:** _(24/05/2026)_
 
 ---
 
